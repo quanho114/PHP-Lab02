@@ -1,0 +1,13 @@
+{
+  "name": "student/php-mini-training-session-app",
+  "description": "Week 2 lab - Mini Training Session Registration App",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "TrainingApp\\": "src/"
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.6"
+  }
+}
